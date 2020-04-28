@@ -1,2 +1,21 @@
 # Limerick
-Limerick is a minimal, clean modern crafted template built with the latest HTML and CSS.The  template comes with a lot of layouts for blog pages, services, landing pages and others. This template is a highly suitable template for companies that offer SEO services as well as other internet marketing related services.This template is developed with modern web design and structure.It contains modern blog pages,dropdowns,contact pages,footer,landing page etc.The CSS of this project is developed by following the structure of modern grid layout.The HTML part of this project is also developed with full control for instance each page of this template has its own HTML file,navbar,footer etc.
+
+Limerick is a minimal, clean modern crafted template built with the latest HTML and CSS.The  template comes with a lot of layouts for blog pages, services, landing pages and others. This template is a highly suitable template for companies that offer SEO services as well as other internet marketing related services.This template is developed with modern web design and structure.
+
+## Developed With:
+
+* HTML.
+* CSS.
+
+## Silent Features:
+
+* Minimal, clean modern crafted template built with the latest HTML and CSS.
+* Contains modern layouts of blog pages,services,landing pages etc.
+* Highly suitable template for companies that offer SEO services as well as other internet marketing related services.This template is developed with modern web design and structure.
+* Unique CSS effects .
+* Unique HTML Structure.
+
+
+## Project Preview:
+
+(https://ali-tahir4024.github.io/Limerick/).
