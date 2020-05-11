@@ -15,7 +15,6 @@ Limerick is a minimal, clean modern crafted template built with the latest HTML 
 * Unique CSS effects .
 * Unique HTML Structure.
 
-
 ## Project Preview:
 
 (https://ali-tahir4024.github.io/Limerick/).
